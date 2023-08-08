@@ -19,4 +19,4 @@ i downloaded a pictorial of the results of the election from the internet and th
 modelling wasn't needed because the data has just one table
 
 # Analysis and visualization
-![photp]()
+![photp](https://github.com/olamhiwepo/2019-Election/blob/main/ELECTION.png)

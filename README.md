@@ -17,3 +17,6 @@ i downloaded a pictorial of the results of the election from the internet and th
 
 # Data modelling
 modelling wasn't needed because the data has just one table
+
+# Analysis and visualization
+![photp]()

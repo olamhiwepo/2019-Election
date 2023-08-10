@@ -29,6 +29,8 @@ here we received the folllowing insights
 - Lagos is the only state in the South with enough voting numbers to compete with the North
 - PDP has  a good presence in the SouthSouth but the small voting population of the region doesn't favour PDP
 
- # Coclusion and Recommendation
- -
+ # Coclusion and Recommendations
+ - PDP needs to work on building their voting strength in regions with the highest numbers of voting population
+ - APC needs a good strategy on infiltrating the southSouth and SouthEast
+ - only a political revolution can cause the emergence of a 3rd strong political party
 

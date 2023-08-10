@@ -19,7 +19,8 @@ i downloaded a pictorial of the results of the election from the internet and th
 modelling wasn't needed because the data has just one table
 
 # Analysis and visualization
-![photp](https://github.com/olamhiwepo/2019-Election/blob/main/election%20project.PNG)
+![photp](https://github.com/olamhiwepo/2019-Election/blob/main/new%20election.PNG)
+
 here we received the folllowing insights
 -
 

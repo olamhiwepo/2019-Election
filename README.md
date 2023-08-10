@@ -27,4 +27,8 @@ here we received the folllowing insights
 - NorthWest and NorthEast were strong points of APC and helped them get a good lead in the Election
 - Both PDP and APC have a total of 92.5% of the total votes
 - Lagos is the only state in the South with enough voting numbers to compete with the North
+- PDP has  a good presence in the SouthSouth but the small voting population of the region doesn't favour PDP
+
+ # Coclusion and Recommendation
+ -
 

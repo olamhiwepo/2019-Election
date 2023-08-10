@@ -22,7 +22,7 @@ modelling wasn't needed because the data has just one table
 ![photo](https://github.com/olamhiwepo/2019-Election/blob/main/new%20election.PNG)
 
 
-here we received the folllowing insights
+here, we received the folllowing insights
 - The NorthWest has the highest amount of voting population. 4 out of of the 5 states with the highest voting numbers are from the NorthWest
 - NorthWest and NorthEast were strong points of APC and helped them get a good lead in the Election
 - Both PDP and APC have a total of 92.5% of the total votes

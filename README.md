@@ -2,7 +2,7 @@
 ![image](https://github.com/olamhiwepo/2019-Election/blob/main/istockphoto-468337336-612x612.jpg)
 
 # Introduction
-The 2023 Election is something that sparked huge intrest in the nation across different age groups and tribes. The Election was very unique because
+The 2023 Election is something that sparked huge interest in the nation across different age groups and tribes. The Election was very unique because
 for the first time Nigeria was going to have  3 strong political parties contesting aside from the regular 2 big wigs.
 As a data analyst, i thought to myself "could the voting pattern in hte 2019 election be a pointer to what the 2023 elections will look like?" so i decided to analyze the 2019 National Election data
 
@@ -29,7 +29,7 @@ here, we received the folllowing insights
 - Lagos is the only state in the South with enough voting numbers to compete with the North
 - PDP has  a good presence in the SouthSouth but the small voting population of the region doesn't favour PDP
 
- # Coclusion and Recommendations
+ # Conlusion and Recommendations
  - PDP needs to work on building their voting strength in regions with the highest numbers of voting population
  - APC needs a good strategy on infiltrating the southSouth and SouthEast
  - only a political revolution can cause the emergence of a 3rd strong political party
